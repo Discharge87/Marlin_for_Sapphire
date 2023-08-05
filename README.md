@@ -35,3 +35,5 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
     UART is working with one serial defined
 
 # Download the release "Marlin-bugfix-2.1.x_finished_version_Sapphire"
+
+![alt text](https://github.com/Discharge87/Marlin_for_Sapphire/edit/main/Sapphire_status_display.jpg?raw=true)
