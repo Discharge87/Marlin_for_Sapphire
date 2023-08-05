@@ -7,21 +7,25 @@ If you meet the same configuration as below it is just plug and play.
 
 Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 
+### Hardware:
 - Board MKS Robin nano V1.2
 - TFT35 Screen with touch
+- Stepper TMC2209 for X,Y,Z and Extruder with additional UART wiring
+
+### Software:
 - TMC2209 with UART is active
     * UART Pins are defined in pins folder(mks_robin_nano.h)
     * UART debug is active
-- SD card support activated
+- SDSUPPORT is activated
 - Homing point is in the middle of the bed
    * Endstops for X, Y and Z are hardware switches(original state)
    * Printer size is set to 225x225x220mm
 - Retraction is dissabled. You can activate the function in configuration_avh.h and define(unmask) "FWRETRACT"
    * Display retraction settings are activated then
    * Or change values in the configuration_adv.h
-- PID tuning is active for bed and hotend
+- PIDTEMP(PID tuning) is active for bed and hotend
    * Display menu active
-   * Heated bed is active
+   * PIDTEMPBED Heated bed is active
 - Z_AFTER_HOMING is set to 10mm
 - Mesh bed leveling active
   * Display menu active
