@@ -12,7 +12,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
     * UART debug is active
 - Homing point is in the middle of the bed
    * Endstops for X, Y and Z are hardware switches(original state)
-   * Bed size is set to 235x235*250mm
+   * Bed size is set to 235x235x250mm
 - PID tuning is active for bed and hotend
    * Display menu active
    * Heated bed is active
