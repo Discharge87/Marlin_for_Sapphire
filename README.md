@@ -4,10 +4,9 @@ After long tryouts with other Marlin builds for Sapphire Printers with MKS Robin
 Adapted for Sapphire Pro(Plus is also possible)
 
 - Board MKS Robin nano V1.2
-- TFT35 with touch
+- TFT35 Screen with touch
 - TMC2209 UART is active
     * UART Pins are defined in pins folder
-- TFT35
 - Homing point is in the middle of the bed
    * Endstops for X, Y and Z ar hardware switches(original state)
 - PID tuning is active for bed and hotend
