@@ -15,7 +15,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - SD card support activated
 - Homing point is in the middle of the bed
    * Endstops for X, Y and Z are hardware switches(original state)
-   * Bed size is set to 225x225x250mm
+   * Printer size is set to 225x225x220mm
 - Retraction is dissabled. You can activate the function in configuration_avh.h and define(unmask) "FWRETRACT"
    * Display retraction settings are activated then
    * Or change values in the configuration_adv.h
