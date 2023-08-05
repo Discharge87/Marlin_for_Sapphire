@@ -23,7 +23,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - Retraction is dissabled. You can activate the function in configuration_avh.h and define(unmask) **"FWRETRACT"**
    * Display retraction settings are activated then
    * Or change values in the configuration_adv.h
-- PID tuning **(PIDTEMP)**is active for bed and hotend
+- PID tuning **(PIDTEMP)** is active for bed and hotend
    * Display menu active
    * **PIDTEMPBED** Heated bed is active
 - **Z_AFTER_HOMING** is set to 10mm
