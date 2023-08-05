@@ -20,21 +20,21 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - Homing point is in the middle of the bed
    * Endstops for X, Y and Z are hardware switches(original state)
    * Printer size is set to 225x225x220mm
-- Retraction is dissabled. You can activate the function in configuration_avh.h and define(unmask) "FWRETRACT"
+- Retraction is dissabled. You can activate the function in configuration_avh.h and define(unmask) **"FWRETRACT"**
    * Display retraction settings are activated then
    * Or change values in the configuration_adv.h
-- PIDTEMP(PID tuning) is active for bed and hotend
+- PID tuning **(PIDTEMP)**is active for bed and hotend
    * Display menu active
-   * PIDTEMPBED Heated bed is active
-- Z_AFTER_HOMING is set to 10mm
+   * **PIDTEMPBED** Heated bed is active
+- **Z_AFTER_HOMING** is set to 10mm
 - Mesh bed leveling active
   * Display menu active
   * No probehead acive
 - Core XY
   * Stepper directions are set for core xy
-- EEPROM_INIT_NOW is active for reinitializing the EEPROM after new FW installation(recommended)
-- EEPROM_SETTINGS is active for permanent value storage(recommended)
-- In .../src/core/serial.h i had to define SERIAL_CATCHALL by force. Otherwise compiling ends up in errors.
+- **EEPROM_INIT_NOW** is active for reinitializing the EEPROM after new FW installation(recommended)
+- **EEPROM_SETTINGS** is active for permanent value storage(recommended)
+- In .../src/core/serial.h i had to define **SERIAL_CATCHALL** by force. Otherwise compiling ends up in errors.
   * Maybe because i could define in configuraation only one Serial port(if i put more than one in there- compiling errors)
     UART is working with one serial defined
 
