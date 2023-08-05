@@ -12,7 +12,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - TFT35 Screen with touch
 - Stepper TMC2209 for X,Y,Z and Extruder with additional UART wiring
 
-### Software:
+### Software changes:
 - TMC2209 with UART is active
     * UART Pins are defined in pins folder(mks_robin_nano.h)
     * UART debug is active
