@@ -28,4 +28,4 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
   * Maybe because i could define in configuraation only one Serial port(if i put more than one in there- compiling errors)
     UART is working with one serial defined
 
-# Download the release.
+# Download the release "Marlin-bugfix-2.1._Sapphire_Plus._UART"
