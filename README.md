@@ -11,6 +11,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - TMC2209 with UART is active
     * UART Pins are defined in pins folder(mks_robin_nano.h)
     * UART debug is active
+- SD card support activated
 - Homing point is in the middle of the bed
    * Endstops for X, Y and Z are hardware switches(original state)
    * Bed size is set to 235x235x250mm
