@@ -22,7 +22,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - Core XY
   * Stepper directions are set for core xy
 - EEPROM_INIT_NOW is active for reinitializing the EEPROM after new FW installation(recommended)
-- EEPROM Settings is active for permanent value storage(recommended)
+- EEPROM_SETTINGS is active for permanent value storage(recommended)
 - In .../src/core/serial.h i had to define SERIAL_CATCHALL by force. Otherwise compiling ends up in errors.
   * Maybe because i could define in configuraation only one Serial port(if i put more than one in there- compiling errors)
     UART is working with one serial defined
