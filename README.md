@@ -13,7 +13,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - Stepper TMC2209 for X,Y,Z and Extruder with additional UART wiring
 
 ### Software changes:
-- TMC2209 with UART is active
+- **TMC2209** with UART **(HAS_TMC_UART)** is active
     * UART Pins are defined in pins folder(mks_robin_nano.h)
     * UART debug is active
 - SD card **(SDSUPPORT)** is activated
