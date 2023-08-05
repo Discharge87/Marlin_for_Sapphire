@@ -1,7 +1,7 @@
-# Marlin_for_Sapphire(Marlin bugfix 2.1.x)
+# Marlin_for_Sapphire_Pro(Marlin bugfix 2.1.x)
 After long tryouts with other Marlin builds for Sapphire Printers with MKS Robin nano V1.2 Board with the TFT35 and UART i made a new build based on Marlin Bugfix 2.1.x
 
-Adapted for Sapphire Pro(Plus is also possible)
+Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 
 - Board MKS Robin nano V1.2
 - TFT35 Screen with touch
