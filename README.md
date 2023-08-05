@@ -17,3 +17,5 @@ Adapted for Sapphire Pro(Plus is also possible)
   * No probehead acive
 - Core XY
   * Stepper directions are set for core xy
+
+# Download the release.
