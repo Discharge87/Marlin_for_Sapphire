@@ -15,6 +15,9 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - Homing point is in the middle of the bed
    * Endstops for X, Y and Z are hardware switches(original state)
    * Bed size is set to 235x235x250mm
+- Retraction is dissabled. You can activate the function configuration_avh.h and define(unmask) "FWRETRACT"
+   * Display retraction settings are activated then
+   * Or change values in the configuration_adv.h
 - PID tuning is active for bed and hotend
    * Display menu active
    * Heated bed is active
