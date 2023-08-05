@@ -22,6 +22,7 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - PID tuning is active for bed and hotend
    * Display menu active
    * Heated bed is active
+- Z_AFTER_HOMING is set to 1ßmm
 - Mesh bed leveling active
   * Display menu active
   * No probehead acive
