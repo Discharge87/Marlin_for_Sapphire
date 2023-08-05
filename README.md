@@ -36,4 +36,8 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 
 # Download the release "Marlin-bugfix-2.1.x_finished_version_Sapphire"
 
-![alt text](https://github.com/Discharge87/Marlin_for_Sapphire/edit/main/Sapphire_status_display.jpg?raw=true)
+<img
+  src="https://github.com/Discharge87/Marlin_for_Sapphire/edit/main/Sapphire_status_display.jpg"
+  alt="Alt text"
+  title="Status Display"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
