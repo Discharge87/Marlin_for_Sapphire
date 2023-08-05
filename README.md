@@ -1,4 +1,5 @@
 # Marlin_for_Sapphire_Pro(Marlin bugfix 2.1.x)
+Since Platformio core 6 i run into compiling problems with different Marlin FW for Sapphire printers.
 After long tryouts with other Marlin builds for Sapphire Printers with MKS Robin nano V1.2 Board with the TFT35 and UART i made a new build based on Marlin Bugfix 2.1.x
 
 If you meet the same configuration as below it is just plug and play.
