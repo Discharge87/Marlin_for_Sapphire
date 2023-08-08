@@ -11,15 +11,16 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - TFT35 Screen with touch
 - Stepper TMC2209 for X,Y,Z and Extruder with additional UART wiring
 
-### Software changes:
+### Main software changes:
 - **TMC2209** with UART **(HAS_TMC_UART)** is active
     * UART Pins are defined in pins folder(mks_robin_nano.h)
+    * Junction deviation is active(by standard). Value is set to 0.12 for smooth circular movement
 - SD card **(SDSUPPORT)** is activated
-- Homing point is in the middle of the bed
-   * Endstops for X, Y and Z are hardware switches(original state)
-   * Printer size is set to 225x225x220mm
-   * No probe- only switch for Z axis
-- Retraction is dissabled. You can activate the function in configuration_avh.h and define(unmask) **"FWRETRACT"**
+- Homing position XY is in the middle of the bed
+   * Endstops for X, Y and Z are hardware switches(original factory state)
+   * Printer size is set to 220x220x220mm
+   * No probe- only a switch for Z axis
+- Firmware retraction is dissabled. You can activate the function in configuration_avh.h and define(unmask) **"FWRETRACT"**
    * Display retraction settings are activated then
    * Or change values in the configuration_adv.h
 - PID tuning **(PIDTEMP)** is active for bed and hotend
