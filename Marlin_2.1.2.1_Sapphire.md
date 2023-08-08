@@ -36,5 +36,5 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
 - **EEPROM_INIT_NOW** is active for reinitializing the EEPROM after new FW installation(recommended)
 - **EEPROM_SETTINGS** is active for permanent value storage(recommended)
 
-## Download the release: [Releases](https://github.com/Discharge87/Marlin_for_Sapphire/releases)
+## [Go to releases](https://github.com/Discharge87/Marlin_for_Sapphire/releases)
 
