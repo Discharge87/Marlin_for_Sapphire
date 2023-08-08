@@ -38,6 +38,6 @@ Adapted for Sapphire Pro(Plus is also possible with some adjustments)
   * Maybe because i could define in configuraation only one Serial port(if i put more than one in there- compiling errors)
     UART is working with one serial defined
 
-## Download the release: [Releases](https://github.com/Discharge87/Marlin_for_Sapphire/releases)
+## [Go to releases](https://github.com/Discharge87/Marlin_for_Sapphire/releases)
 
 
