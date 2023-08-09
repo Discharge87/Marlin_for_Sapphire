@@ -12,4 +12,4 @@ Sapphire Pro with:
 
 ### Releases available here:
 - [Marlin 2.1.2.1](https://github.com/Discharge87/Marlin_for_Sapphire/releases/tag/Version_Sapphire_2.1.2.1)
-- [Marlin bugfix 2.1.x] (https://github.com/Discharge87/Marlin_for_Sapphire/releases/tag/Version_Sapphire_bugfix_2.1.x)
+- [Marlin bugfix 2.1.x](https://github.com/Discharge87/Marlin_for_Sapphire/releases/tag/Version_Sapphire_bugfix_2.1.x)
