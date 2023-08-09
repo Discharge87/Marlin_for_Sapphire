@@ -6,8 +6,8 @@ Sapphire Pro with:
 - SD Card
 
 ### Marlin bugix 2.1.x Version has a bug if you want to print fast and have ABL activated:
-- The steppers are starting stuttering when crossing the Meshlines. Also printed blobs are visible at this spots.
-- High Jerk is not the solution in this case
+- The steppers are starting slow down/stuttering when crossing the Meshlines. Also printed blobs are visible at this spots.
+- High Jerk or junction deviation setting are not the solution in this case
 - The display menus were lagging at fast movements
 #### Version 2.1.2.1 is working fine.
 
