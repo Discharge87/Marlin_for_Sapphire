@@ -4,6 +4,12 @@ Sapphire Pro with:
 - TFT35 Screen
 - SD Card
 
+### Marlin bugix 2.1.x Version has a bug if you wannt to print fast and have ABL activated:
+- The stepper starting stuttering when crossing the Meshlines. Also printed blobs are visible on this spots.
+- High Jerk is not the solution
+- The display menus were lagging at fast movements
+Version 2.1.2.1 is working fine.
+
 ## Status Screen with black background(is set to blue on version 2.1.2.1)
 
 ![alt text](https://github.com/Discharge87/Marlin_for_Sapphire/blob/main/Sapphire_status_display.jpg)
