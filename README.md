@@ -8,7 +8,7 @@ Sapphire Pro with:
 - The stepper starting stuttering when crossing the Meshlines. Also printed blobs are visible on this spots.
 - High Jerk is not the solution
 - The display menus were lagging at fast movements
-Version 2.1.2.1 is working fine.
+#### Version 2.1.2.1 is working fine.
 
 ## Status Screen with black background(is set to blue on version 2.1.2.1)
 
