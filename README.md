@@ -1,6 +1,7 @@
 # Marlin Firmware configured for Sapphire Pro/Plus printers
 Sapphire Pro with:
 - MKS Robin nano V1 boards
+- TMC 2209 stepper drivers with UART(additional wiring needed)
 - TFT35 Screen
 - SD Card
 
