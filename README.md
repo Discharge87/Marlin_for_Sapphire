@@ -2,7 +2,7 @@
 Sapphire Pro with:
 - MKS Robin nano V1 boards
 - TMC 2209 stepper drivers with UART(additional wiring needed)
-- TFT35 Screen
+- TFT35 touch Screen
 - SD Card
 
 ### Marlin bugix 2.1.x Version has a bug if you want to print fast and have ABL activated:
