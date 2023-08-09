@@ -11,4 +11,4 @@ Sapphire Pro with:
 ## Latest Uploaded version for Sapphire printers is based on Marlin 2.1.2.1
 
 ### Releases available here:
-- Marlin bugfix[https://github.com/Discharge87/Marlin_for_Sapphire/releases/tag/Version_Sapphire_2.1.2.1]
+- [Marlin bugfix](https://github.com/Discharge87/Marlin_for_Sapphire/releases/tag/Version_Sapphire_2.1.2.1)
